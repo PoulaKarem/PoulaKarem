@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 " alt="Email"><img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />
 <a href="https://github.com/Paula-Karem/Paula-Karem.git">
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
----
 
 <br />
 
