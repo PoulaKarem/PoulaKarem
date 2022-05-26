@@ -1,4 +1,4 @@
-### Hi there👋 I'm Paula Karem
+### Hello there👋 I'm Paula Karem
 
 <!--
 **Paula-Karem/Paula-Karem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="[https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
