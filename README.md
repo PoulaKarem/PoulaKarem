@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 ### I'm learning: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85px">
 # 
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
-<img align="left" alt="Java" width="26px" src="https://www.java.com/picc/m/153-1538018_java-icon-hd-png-download.png" />
