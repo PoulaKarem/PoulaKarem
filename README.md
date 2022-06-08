@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />
+<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" /> paulakaremp@gmail.com
 <br/>
-paulakaremp@gmail.com
 
 <br/>
 <a href="https://www.linkedin.com/in/paula-karem">
