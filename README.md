@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 paulakaremp@gmail.com
 
 <br/>
+
 <a href="https://www.linkedin.com/in/paula-karem">
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 
