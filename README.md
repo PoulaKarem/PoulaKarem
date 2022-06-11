@@ -23,12 +23,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/paula-karem">
 <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-
+<br/>
+<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" /> paulakaremp@gmail.com
 <br/>
 
-<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" /> paulakaremp@gmail.com
-
-<br/> 
 ---
 ### I'm learning: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px" height="80px">
 
