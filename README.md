@@ -1,6 +1,6 @@
 ### Hello there👋 I'm Paula Karem
 
-## I'm a student at E.E.L.U. IT department
+## I'm a student at EELU IT department
 - Be a producer NOT a user
 - NO social media No wasting time
 <!--
