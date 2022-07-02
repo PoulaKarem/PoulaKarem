@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 
 ### Contact Me:
 
-<img align="left" href="https://www.linkedin.com/in/paula-karem" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a align="left" href="https://www.linkedin.com/in/paula-karem">
+<img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
 <br>
 
