@@ -2,7 +2,7 @@
 
 ## I'm a student at EELU IT department
 - Be a producer NOT a user
-- NO social media No wasting time
+- NO social media NO wasting time
 <!--
 **Paula-Karem/Paula-Karem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
