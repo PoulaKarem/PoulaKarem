@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 <br>
 
-<img  align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/> paulakaremp@gmail.com
+<img alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/> paulakaremp@gmail.com
