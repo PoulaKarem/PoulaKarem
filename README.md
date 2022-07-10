@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### Tools: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px" height="80px">
+### Tools:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ---
 
 ### I'm learning:
+
+<img align="left" alt="JS" width="26px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/>
 
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
