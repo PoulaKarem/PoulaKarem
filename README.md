@@ -1,8 +1,8 @@
 ### Hello there👋 I'm Paula Karem.
 
 ## a Web Developer.
-- Be a producer NOT a user
-- NO social media NO wasting time
+- Be a producer NOT a user.
+- NO social media NO wasting time.
 <!--
 **Paula-Karem/Paula-Karem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
-<img align="left" alt="Bootstrap" width="35px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 ### Contact Me:
 
 <a href="https://www.linkedin.com/in/paula-karem">
-<img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
 <br>
-
-<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/> paulakaremp@gmail.com
+<a href="mailto:paulakaremp@gmail.com">
+<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/></a>paulakaremp@gmail.com
