@@ -1,4 +1,4 @@
-### Hello there👋 I'm Paula Karem.
+### Hello there👋 I'm Poula Karem.
 
 ## a Web Developer.
 - Be a producer NOT a user.
