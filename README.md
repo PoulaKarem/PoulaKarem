@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Contact Me:
 
-<a href="https://www.linkedin.com/in/paula-karem">
+<a href="https://www.linkedin.com/in/poula-karem">
 <img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
