@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
-<img align="left" alt="Terminal" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fterminal-logo%2F&psig=AOvVaw2QHSx28RDVLdt0FmsorDDb&ust=1704306943963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDm46Osv4MDFQAAAAAdAAAAABAD"/>
+<img align="left" alt="Terminal" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png"/>
 
 <img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png"/>
 
