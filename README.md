@@ -36,6 +36,6 @@ Here are some ideas to get you started:
  ---
 
 ### :fire: My Status :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
