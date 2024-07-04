@@ -1,6 +1,6 @@
 ### Hello there👋 I'm Poula Karem.
 
-## a Back-End Developer.
+## Back-End Developer.
 - Be a producer NOT a user.
 - NO social media NO wasting time.
 <!--
