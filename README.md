@@ -1,8 +1,6 @@
 ### Hello there👋 I'm Poula Karem.
 
 ## Back-End Developer.
-- Be a producer NOT a user.
-- NO social media NO wasting time.
 <!--
 **Paula-Karem/Paula-Karem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
