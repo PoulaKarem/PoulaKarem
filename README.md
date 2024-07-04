@@ -1,14 +1,15 @@
 ### Hello there👋 I'm Poula Karem.
 
-## a Web Developer.
+## a Back-End Developer.
 - Be a producer NOT a user.
 - NO social media NO wasting time.
 <!--
 **Paula-Karem/Paula-Karem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+-->
+- 🔭 I’m currently working as a Back-End Developer
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,34 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### Skills:
+### :hammer_and_wrench: Languages and Tools:
 
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-
-<img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/>
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-
-<img align="left" alt="Terminal" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png"/>
-
-<img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png"/>
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-
-<!-- <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> -->
-
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,git,github,linux,postman" />
+  </a>
+</p>
 <br>
 
 ---
 
-### Contact Me:
-
-<a href="https://www.linkedin.com/in/poula-karem">
-<img alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-
-<br>
-<a href="mailto:paulakaremp@gmail.com">
-<img align="left" alt="Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/></a>paulakaremp@gmail.com
+<p  align="center">
+  <a href="https://www.linkedin.com/in/poula-karem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:paulakaremp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
+</p>
