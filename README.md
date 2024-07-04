@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 -->
 ---
 ### :hammer_and_wrench: Languages and Tools:
-
+<br>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,git,github,linux,postman" />
   </a>
 </p>
-<br>
 
 ---
-
+<br>
 <p  align="center">
   <a href="https://www.linkedin.com/in/poula-karem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:paulakaremp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
