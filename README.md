@@ -23,12 +23,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/poula-karem"><img src="https://skillicons.dev/icons?i=js,nodejs,express,git,github,linux,postman" /></a>
 </div>
 <br>
-<div id="contacts" align="center">
-  <a href="https://www.linkedin.com/in/poula-karem" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:paulakaremp@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail">
-</a>
-</div>
+
 
 ### :fire: My Status:
 <br>
@@ -40,4 +35,11 @@ Here are some ideas to get you started:
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=transparent&show" />
   </a>
   -->
+</div>
+
+<div id="contacts" align="center">
+  <a href="https://www.linkedin.com/in/poula-karem" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:paulakaremp@gmail.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail">
+</a>
 </div>
