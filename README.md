@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### :hammer_and_wrench: Languages and Tools:
-<div id="languages&tools" align="center">
+<div id="languages&tools" align="left">
   <a href="https://github.com/poula-karem"><img src="https://skillicons.dev/icons?i=js,nodejs,express,git,github,linux,postman" /></a>
 </div>
 
-### :fire: My Status:
 <div id="status" align="left">
   <a href="https://github.com/poula-karem"><img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>
   <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
