@@ -37,10 +37,9 @@ Here are some ideas to get you started:
  
  ---
 
-### :fire: My Status :
+### :fire: My Status:
 <br>
-<div id="status" align="left">
-  
+<div id="status" align="center">
   <a href="https://github.com/Poula-Karem">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" />
 </a>
