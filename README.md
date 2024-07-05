@@ -1,4 +1,4 @@
-### Hello there👋 I'm Poula Karem.
+### Hello there I'm Poula Karem 👋
 
 ## Back-End Developer.
 <!--
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools:
 <br>
 <div id="languages&tools" align="center">
@@ -25,6 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 <br>
 <div id="contacts" align="center">
   <a href="https://www.linkedin.com/in/poula-karem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -35,6 +38,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Status:
 <br>
+
 <div id="status" align="center">
 
   <img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" />
