@@ -20,24 +20,37 @@ Here are some ideas to get you started:
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <br>
-<p align="center">
+<div id="languages&tools" align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,git,github,linux,postman" />
   </a>
-</p>
+
+
+</div>
 
 ---
 <br>
-<p  align="center">
+<div id="contacts" align="center">
   <a href="https://www.linkedin.com/in/poula-karem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:paulakaremp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
-</p>
+</div>
  
  ---
 
 ### :fire: My Status :
 <br>
+<div id="status" align="left">
+  
+  <a href="https://github.com/Poula-Karem">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" />
+</a>
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Poula-Karem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" />
+</a>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=dark&background=000000)](https://git.io/streak-stats) -->
+  <!-- <a href="https://github.com/Poula-Karem">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=transparent&show" />
+</a> -->
+
+</div>
