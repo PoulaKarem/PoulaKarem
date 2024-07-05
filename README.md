@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### :fire: My Status:
 <br>
 
-<div id="status" align="center">
+<p id="status" align="center">
 
   <a href="https://github.com/poula-karem">
   <img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" />
@@ -65,4 +65,4 @@ Here are some ideas to get you started:
   </a>
   -->
 
-</div>
+</p>
