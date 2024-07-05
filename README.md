@@ -30,8 +30,12 @@ Here are some ideas to get you started:
 
 <br>
 <div id="contacts" align="center">
-<a href="https://www.linkedin.com/in/poula-karem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:paulakaremp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/poula-karem">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:paulakaremp@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail">
+</a>
 </div>
  
  ---
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 ### :fire: My Status:
 <br>
 
-<p id="status" align="center">
+<div id="status" align="center">
   <a href="https://github.com/poula-karem"><img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>
 
   <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
@@ -50,4 +54,4 @@ Here are some ideas to get you started:
   </a>
   -->
 
-</p>
+</div>
