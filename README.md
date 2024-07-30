@@ -1,6 +1,6 @@
 ### Hello there I'm Poula Karem 👋
 
-## Back-End Developer.
+## Software Developer | Back-End
 
 <!--
 Here are some ideas to get you started:
