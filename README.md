@@ -22,11 +22,12 @@ mongodb
 ### :hammer_and_wrench: Languages and Tools:
 <div id="languages&tools" align="left">
   <a href="https://github.com/poula-karem"><img src="https://skillicons.dev/icons?i=js,nodejs,express,npm,postman,postgres,git,github,linux,vscode" /></a>
-  <a href="[https://github.com/poula-karem](https://github.com/poula-karem/Poula)"><img src="https://skillicons.dev/icons?i=js,nodejs,express,npm,postman,postgres,git,github,linux,vscode" /></a>
 </div>
 <br>
 <div id="status" align="left">
   <a href="https://github.com/poula-karem"><img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>
+
+  <a href="https://github.com/poula"><img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>
   
   <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
   <!-- 
