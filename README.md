@@ -29,7 +29,7 @@ mongodb
   
   <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
  
-  <a href="https://leetcard.jacoblin.cool/poula-karemp?theme=dark">
+  <a href="https://leetcard.jacoblin.cool/poula-karemp?theme=dark">Leetcode Stats</a>
   
   <!-- 
   <a href="https://github.com/poula-karem">
