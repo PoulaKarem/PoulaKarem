@@ -31,7 +31,7 @@ mongodb
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/poula-karemp?theme=dark)
  
-  <a href="https://leetcard.jacoblin.cool/poula-karemp?theme=dark">Leetcode Stats</a>
+  <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://leetcard.jacoblin.cool/poula-karemp?theme=dark&theme=transparent&show" /></a>
   
   <!-- 
   <a href="https://github.com/poula-karem">
