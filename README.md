@@ -32,9 +32,7 @@ mongodb
   <a href="https://github.com/poula-karem"><img alt="leetStatus" height="180em" src="https://leetcard.jacoblin.cool/poula-karemp?theme=dark" /></a>
   
   <!-- 
-  <a href="https://github.com/poula-karem">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=transparent&show" />
-  </a>
+  <a href="https://github.com/poula-karem"><img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=transparent&show" /></a>
   -->
 </div>
 
