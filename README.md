@@ -28,6 +28,9 @@ mongodb
   <a href="https://github.com/poula-karem"><img alt="topLangs" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>
   
   <a href="https://github.com/poula-karem"><img alt="githubStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
+ 
+  <a href="https://leetcard.jacoblin.cool/Veronia_Osama?theme=dark">
+  
   <!-- 
   <a href="https://github.com/poula-karem">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Poula-Karem&theme=transparent&show" />
