@@ -27,8 +27,8 @@ mongodb
 <div id="status" align="left">
   <a href="https://github.com/poula-karem"><img alt="topLangs" width="300rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show" /></a>  
  
-  <a href="https://github.com/poula-karem"><img alt="codewarsStatus" width="300rem" src="https://github.r2v.ch/codewars?user=Poula Karem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue" /></a>
-
+  <a href="https://github.com/poula-karem"><img alt="codewarsStatus" width="300rem" 
+                                             src="https://github.r2v.ch/codewars?user=Poula Karem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue" /></a>
 
   <a href="https://github.com/poula-karem"><img alt="githubStatus" width="300rem" src="https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show" /></a>
 
