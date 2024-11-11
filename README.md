@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 wordpress
-mongodb
+gmail
+linkedin
+MongoDB
+ts
 -->
 
 ### :hammer_and_wrench: Languages and Tools:
 <div id="languages&tools" align="left">
-  <a href="https://github.com/poula-karem"><img src="https://skillicons.dev/icons?i=js,nodejs,express,npm,postman,postgres,git,github,linux,vscode" /></a>
+  <a href="https://github.com/poula-karem"><img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,postman,npm,git,github,linux,vscode" /></a>
 </div>
 <br>
 <div id="status" align="left">
