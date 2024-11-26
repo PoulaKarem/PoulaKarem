@@ -21,7 +21,7 @@ ts
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![languages&tools](https://skillicons.dev/icons?i=js,nodejs,express,postgres,postman,npm,git,github,linux,vscode)
+![Languages & Tools](https://skillicons.dev/icons?i=js,nodejs,express,postgres,postman,npm,git,github,linux,vscode)
 ***
 ![Codewars Status](https://github.r2v.ch/codewars?user=PoulaKarem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=default)
 
