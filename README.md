@@ -29,9 +29,7 @@ ts
 ![Codewars Status](https://github.r2v.ch/codewars?user=PoulaKarem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=default)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show)
-
----
-
+***
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poula-karem)
 [![Gmail](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:paulakaremp@gmail.com)
 
