@@ -2,12 +2,11 @@
 
 ## Software Developer | Back-End
 
-<!--
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently ...
--->
 - 🌱 I’m currently working as a Back-End Developer
+- 🔭 I’m currently learning **MongoDB** and **TypeScript**.
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
