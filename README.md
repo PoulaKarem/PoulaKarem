@@ -5,7 +5,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m currently working as a Back-End Developer
-- 🔭 I’m currently learning **MongoDB** and **TypeScript**.
+<!-- - 🔭 I’m currently learning **MongoDB** and **TypeScript**. -->
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -15,12 +15,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 wordpress
-ts
 -->
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![Languages & Tools](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,vscode)
+![Languages & Tools](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,vscode)
 ***
 [![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
 
