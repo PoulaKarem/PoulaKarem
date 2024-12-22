@@ -19,7 +19,7 @@ wordpress
 
 ### :hammer_and_wrench: Tools & Technologies:
 
-![Languages & Tools](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,vscode)
+![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,vercel,linux,vscode)
 ***
 [![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
 
