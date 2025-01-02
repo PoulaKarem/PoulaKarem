@@ -1,6 +1,6 @@
 ### Hello there I'm Poula Karem 👋
 
-## Software Software Engineer | Back-End Developer (Node.js/Express.js, Azure Functions)
+## Software Engineer | Back-End Developer (Node.js/Express.js, Azure Functions)
 
 <!-- Here are some ideas to get you started: -->
 
