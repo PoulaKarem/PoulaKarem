@@ -26,10 +26,13 @@ vercel
 
 ![Codewars Status](https://github.r2v.ch/codewars?user=PoulaKarem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=default)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Poula-Karem&theme=transparent&show)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=PoulaKarem&theme=transparent&show)
+
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=PoulaKarem&style=flat-square&color=blue) -->
+
 ***
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poula-karem)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
 [![Gmail](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:paulakaremp@gmail.com)
 
 <!-- ![Leet Code](https://leetcard.jacoblin.cool/poula-karemp?theme=dark) -->
-<!-- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poula-Karem&layout=compact&theme=transparent&show) -->
+<!-- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PoulaKarem&layout=compact&theme=transparent&show) -->
