@@ -14,13 +14,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+redis
 Wordpress
 vercel
 -->
 
 ### :hammer_and_wrench: Tools & Technologies:
 
-![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,vscode)
+![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,debian,vscode)
 ***
 [![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
 
@@ -28,7 +29,7 @@ vercel
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=PoulaKarem&theme=transparent&show)
 
-<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=PoulaKarem&style=flat-square&color=blue) -->
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=PoulaKarem&style=for-the-badge) -->
 
 ***
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
