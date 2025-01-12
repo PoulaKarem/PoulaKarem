@@ -23,9 +23,8 @@ vercel
 
 ![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,linux,debian,vscode)
 ***
-[![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
 
-![Codewars Status](https://github.r2v.ch/codewars?user=PoulaKarem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=default)
+[![Leet Code Status](https://leetcard.jacoblin.cool/poula-karemp?theme=dark)](https://leetcode.com/u/poula-karemp/)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=PoulaKarem&theme=transparent&show)
 
@@ -35,5 +34,9 @@ vercel
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
 [![Gmail](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:paulakaremp@gmail.com)
 
-<!-- ![Leet Code](https://leetcard.jacoblin.cool/poula-karemp?theme=dark) -->
+<!-- 
+[![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
+
+![Codewars Status](https://github.r2v.ch/codewars?user=PoulaKarem&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=default)
+ -->
 <!-- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PoulaKarem&layout=compact&theme=transparent&show) -->
