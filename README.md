@@ -33,7 +33,7 @@ vercel
 
 ***
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
 [![Gmail](https://img.shields.io/badge/Email-paulakaremp@gmail.com-blue?style=social&logo=gmail)](mailto:paulakaremp@gmail.com)
 
 <!-- 
