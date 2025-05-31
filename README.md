@@ -5,8 +5,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m currently working as a Back-End Developer
-<!-- - 🔭 I’m currently learning **MongoDB** and **TypeScript**. -->
+- 🙅‍♂️ I don't use social media platforms like Facebook, Instagram, etc
 
+<!-- - 🔭 I’m currently learning **MongoDB** and **TypeScript**. -->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -31,8 +32,9 @@ vercel
 <!-- ![GitHub Views](https://komarev.com/ghpvc/?username=PoulaKarem&style=for-the-badge) -->
 
 ***
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poulakarem)
-[![Gmail](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:paulakaremp@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-paulakaremp@gmail.com-blue?style=social&logo=gmail)](mailto:paulakaremp@gmail.com)
 
 <!-- 
 [![Codewars Status](https://www.codewars.com/users/PoulaKarem/badges/large)](https://www.codewars.com/users/PoulaKarem/stats)
